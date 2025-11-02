@@ -30,7 +30,11 @@
         class="card bg-light d-flex justify-content-end align-items-center overflow-hidden"
         style="width: 18rem; height: 24rem"
       >
-        <img src="../assets/images/Hindu-About.png" alt="" class="about-img" />
+        <img
+          src="../../public/assets/images/Hindu-About.png"
+          alt=""
+          class="about-img"
+        />
       </div>
     </div>
     <div>

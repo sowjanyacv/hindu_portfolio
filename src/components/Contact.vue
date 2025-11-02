@@ -28,6 +28,16 @@
           <i class="bi bi-envelope-at-fill text-white me-2"></i>
           Mail
         </a>
+
+        <a
+          class="btn btn-outline-light btn-lg"
+          href="https://hindupriyacv24.wixsite.com/the-in-between"
+          target="_blank"
+          rel="noopener"
+        >
+          <i class="bi bi-at text-white me-2"></i>
+          Wix
+        </a>
       </div>
     </div>
   </section>

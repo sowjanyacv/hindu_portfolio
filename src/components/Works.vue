@@ -9,7 +9,7 @@
           class="card d-flex justify-content-end align-items-center overflow-hidden"
           style="width: 13rem; height: 24rem"
         >
-          <img :src="tranformPhoto(work.photo)" alt="" class="about-img" />
+          <img :src="work.photo" alt="" class="about-img" />
         </div>
       </div>
     </div>
@@ -17,14 +17,10 @@
 </template>
 
 <script setup>
-import works from "../assets/jsons/works.json";
+import works from "../../public/assets/jsons/works.json";
 
 function openLink(url) {
   window.open(url, "_blank");
-}
-
-function tranformPhoto(photoPath) {
-  return new URL(photoPath, import.meta.url).href;
 }
 </script>
 

@@ -4,7 +4,7 @@
   >
     <img
       class="home-image-height"
-      src="../assets/images/Hindu-Home.png"
+      src="../../public/assets/images/Hindu-Home.png"
       alt=""
     />
     <button
