@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "photo": "../assets/images/Work-Riversoft.JPG",
+        "link": "https://www.instagram.com/reel/DM0NGExhtpd/?igsh=eTdxNXgycDJ5YzMx"
+    },
+    {
+        "id": 2,
+        "photo": "../assets/images/Work-SkinMama.JPG",
+        "link": "https://www.instagram.com/reel/DMF2u8FhsoY/?igsh=MTRzenFqMWhveWNyaw=="
+    },
+    {
+        "id": 3,
+        "photo": "../assets/images/Work-Sherpal.JPG",
+        "link": "https://www.instagram.com/p/DMxZ-bky49E/?igsh=aHMxZmh5enJ1eGh3"
+    },
+    {
+        "id": 4,
+        "photo": "../assets/images/Work-MyBra.JPG",
+        "link": "https://www.instagram.com/reel/DMc_B5vTeKq/?igsh=MXc5NTloZThkbjZzaw=="
+    },
+    {
+        "id": 5,
+        "photo": "../assets/images/Work-SOS.JPG",
+        "link": "https://www.instagram.com/reel/DMXpyb6RV6Q/?igsh=cjJjZTFjbzc1ZTQ5"
+    },
+    {
+        "id": 6,
+        "photo": "../assets/images/Work-Tyohar.JPG",
+        "link": "https://www.instagram.com/reel/DPoXhBHgoxH/?igsh=MTFiN2wycWdib3Q2Ng=="
+    },
+    {
+        "id": 7,
+        "photo": "../assets/images/Work-100.JPG",
+        "link": "https://www.instagram.com/reel/DDL4Bhky5gr/?igsh=MXFqcmV0dG1tMzUwdw=="
+    },
+    {
+        "id": 8,
+        "photo": "../assets/images/Work-Li-Ning.JPG",
+        "link": "https://www.instagram.com/reel/DEOxQaBvKEk/?igsh=NmtjNXEwNHZscWgy"
+    }
+]
